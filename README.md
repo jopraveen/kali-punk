@@ -112,7 +112,13 @@ sudo apt install brave-browser
 ```
 </details>
 
-
+<details>
+<summary>w3m</summary> <br>
+  
+```bash
+sudo apt install w3m
+```
+</details>
 
 
 
