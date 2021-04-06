@@ -136,6 +136,13 @@ sudo apt ranger
 ```
 </details>
 
+<details>
+<summary>rofi</summary> <br>
+  
+```bash
+sudo apt rofi 
+```
+</details>
 
 
 <!--Soon I'll upload i3wm kali linux files with cyberpunk rice
