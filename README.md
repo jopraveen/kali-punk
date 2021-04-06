@@ -77,6 +77,7 @@ sudo apt install mate-terminal
 + Background
 
     + Tansparent Background : set 68% transparency
+    
 </details>
 
 <details>
