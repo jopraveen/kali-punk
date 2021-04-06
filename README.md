@@ -148,8 +148,24 @@
   sudo apt rofi 
   ```
   </details>
+  
+  <details>
+  <summary>wallset</summary> <br>
 
+  ```bash
+  git clone https://github.com/terroo/wallset
+  cd wallset
+  sudo sh install.sh
+  ```
+  ### The installer says that a package is not installed, but are you sure it is?
+  ```bash
+  sudo ./install.sh --force
+  ```
+  </details>
+  
 </details>
+
+
 
 <!--Soon I'll upload i3wm kali linux files with cyberpunk rice
 I'll upload a video in few days in my youtube channel (How to make tutorial video)
