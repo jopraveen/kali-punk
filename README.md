@@ -68,9 +68,9 @@ sudo apt install mate-terminal
 + Colors
     + Foreground, Background, Bold and Underline
         + Build-in schemes: Custom
-        + Text color: 
-        + Bold color:
-        + Background color:
+        + Text color: #E30A7D
+        + Bold color: #F809B7
+        + Background color: #020429
     + Palette
         + Build-in schemes: Solarized
         
