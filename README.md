@@ -79,16 +79,13 @@ sudo apt install mate-terminal
     + Tansparent Background : set 68% transparency
 </details>
 
-
-
-
-
-
-
-
-
-
-
+<details>
+<summary>compton</summary> <br>
+  
+```bash
+sudo apt install compton
+```
+</details>
 
 
 
