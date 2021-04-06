@@ -52,7 +52,32 @@ chsh -s $(which zsh)
 ### Read this: https://techdhee.in/how-to-install-zsh-in-kali-linux/#How_To_Install_ZSH_in_Kali_Linux
 </details>
 
+<details>
+<summary>mate-terminal</summary> <br>
+  
+```bash
+sudo apt install mate-terminal
+```
 
+#### ok now go to profile preferences and change these things (in mate-terminal) 🙂
++ General    
+    + Font: Monospace Regular 
+    + Font Size: 9
+    + Uncheck [Show menubar by default in new terminals]
+    
++ Colors
+    + Foreground, Background, Bold and Underline
+        + Build-in schemes: Custom
+        + Text color: 
+        + Bold color:
+        + Background color:
+    + Palette
+        + Build-in schemes: Solarized
+        
++ Background
+
+    + Tansparent Background : set 68% transparency
+</details>
 
 
 
