@@ -128,7 +128,13 @@ sudo apt i3-gaps
 ```
 </details>
 
-
+<details>
+<summary>ranger</summary> <br>
+  
+```bash
+sudo apt ranger 
+```
+</details>
 
 <details>
 <summary>zsh</summary> <br>
