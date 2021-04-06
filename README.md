@@ -96,7 +96,13 @@ sudo apt install feh
 ```
 </details>
 
-
+<details>
+<summary>neofetch</summary> <br>
+  
+```bash
+sudo apt install neofetch
+```
+</details>
 
 
 
