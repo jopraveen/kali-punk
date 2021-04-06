@@ -104,7 +104,13 @@ sudo apt install neofetch
 ```
 </details>
 
-
+<details>
+<summary>brave-browser</summary> <br>
+  
+```bash
+sudo apt install brave-browser
+```
+</details>
 
 
 
