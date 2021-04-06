@@ -136,14 +136,7 @@ sudo apt ranger
 ```
 </details>
 
-<details>
-<summary>zsh</summary> <br>
-  
-```bash
-sudo apt install zsh
-chsh -s $(which zsh)
-```
-</details>
+
 
 <!--Soon I'll upload i3wm kali linux files with cyberpunk rice
 I'll upload a video in few days in my youtube channel (How to make tutorial video)
