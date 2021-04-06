@@ -88,7 +88,13 @@ sudo apt install compton
 ```
 </details>
 
-
+<details>
+<summary>feh</summary> <br>
+  
+```bash
+sudo apt install feh
+```
+</details>
 
 
 
