@@ -120,7 +120,13 @@ sudo apt install w3m
 ```
 </details>
 
-
+<details>
+<summary>i3-gaps</summary> <br>
+  
+```bash
+sudo apt i3-gaps 
+```
+</details>
 
 
 
