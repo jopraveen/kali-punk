@@ -7,7 +7,7 @@
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jopraveen/kali-punk?style=flat-square">
 <!--<img alt="GitHub forks" src="https://img.shields.io/github/forks/jopraveen/kali-punk?style=flat-square">-->
 </p>
-<h2 align="center">i3 rice Inspired by Cyberpunk 2077</h2> <br>
+<h2 align="center">i3 rice Inspired by Cyberpunk 2077 (still under construction)</h2> <br>
 
 
 <details>
