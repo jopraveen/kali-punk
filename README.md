@@ -243,3 +243,11 @@ sudo bash install.sh
   </details>
   
 </details>
+
+<details>
+<summary>👈 Changing path in some files</summary> <br>
+
+#### Modfify these files (follow my steps)
+ 
+    
+</details>
