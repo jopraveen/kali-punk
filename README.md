@@ -11,7 +11,7 @@
 <h2 align="center">i3 rice Inspired by Cyberpunk 2077 (still under construction)</h2> <br>
 
 # 😍 Full set up
-### I'll upload a video in two days in my youtube channel (How to setup this in your machine full tutorial video)
+### I'll upload a video in two days in my youtube channel (Full Tutorial)
 ### Subscribe My channel to get instant notification of this video: https://bit.ly/3rLKyZi 
 
 <br>
