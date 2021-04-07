@@ -33,6 +33,7 @@
   git clone https://github.com/jaagr/polybar.git
   cd polybar && ./build.sh
   sudo apt install polybar
+  install -Dm644 /usr/share/doc/polybar/config $HOME/.config/polybar/config
   ```
   </details>
 
