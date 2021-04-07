@@ -28,6 +28,7 @@ sudo apt install compton
 # feh
 echo -e "\n\e[40mInstalling feh...\n"
 sudo apt install feh
+sudo apt install imagemagick
 
 # neofetch
 echo -e "\n\e[40mInstalling neofetch...\n"
