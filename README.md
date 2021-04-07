@@ -68,26 +68,7 @@
   ```bash
   sudo apt install mate-terminal
   ```
-
-  #### ok now go to profile preferences and change these things (in mate-terminal) 🙂
-  + General    
-      + Font: Monospace Regular 
-      + Font Size: 9
-      + Uncheck [Show menubar by default in new terminals]
-
-  + Colors
-      + Foreground, Background, Bold and Underline
-          + Build-in schemes: Custom
-          + Text color: #E30A7D
-          + Bold color: #F809B7
-          + Background color: #020429
-      + Palette
-          + Build-in schemes: Solarized
-
-  + Background
-
-      + Tansparent Background : set 68% transparency
-
+  
   </details>
 
   <details>
@@ -203,7 +184,32 @@
 </details>
 
 
+<details>
+<summary>👈 Modifications</summary> <br>
+  
+  <details>
+  <summary>Mate-terminal</summary> <br>
+  #### Go to profile preferences and change these things (in mate-terminal) 🙂
+  + General    
+      + Font: Monospace Regular 
+      + Font Size: 9
+      + Uncheck [Show menubar by default in new terminals]
 
+  + Colors
+      + Foreground, Background, Bold and Underline
+          + Build-in schemes: Custom
+          + Text color: #E30A7D
+          + Bold color: #F809B7
+          + Background color: #020429
+      + Palette
+          + Build-in schemes: Solarized
+
+  + Background
+
+      + Tansparent Background : set 68% transparency
+  </details>
+  
+</details>
 <!--Soon I'll upload i3wm kali linux files with cyberpunk rice
 I'll upload a video in few days in my youtube channel (How to make tutorial video)
  subscribe to get instant notification: https://bit.ly/3rLKyZi -->
