@@ -19,8 +19,8 @@ sudo bash install.sh
 #### If you get any errors in this auto installation script then please go through the manual way (See Down, I explained how to install every package clearly) 
 
 ## Full set up
-### I'll upload a video in few days in my youtube channel (How to do tutorial video)
-### subscribe to get instant notification: https://bit.ly/3rLKyZi 
+### I'll upload a video in two days in my youtube channel (How to do tutorial video)
+### Subscribe My channel to get instant notification of this video: https://bit.ly/3rLKyZi 
 
 <details>
 <summary>👈 Dependencies</summary> <br>
