@@ -188,7 +188,7 @@
 <summary>👈 Modifications</summary> <br>
   
   <details>
-  <summary>Mate-terminal</summary> <br>
+  <summary>Mate-terminal</summary> 
   
   #### Go to profile preferences and change these things (in mate-terminal) 🙂
   
