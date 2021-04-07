@@ -109,6 +109,14 @@ sudo bash install.sh
   sudo apt install feh
   ```
   </details>
+  
+  <details>
+  <summary>ffmpeg</summary> <br>
+
+  ```bash
+  sudo apt install ffmpeg
+  ```
+  </details>
 
   <details>
   <summary>neofetch</summary> <br>
