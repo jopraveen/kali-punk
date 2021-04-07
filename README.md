@@ -164,6 +164,33 @@
   ```
   </details>
   
+  <details>
+  <summary>term-clock</summary> <br>
+
+  ```bash
+  git clone https://github.com/Souravgoswami/term-clock
+  cd term-clock
+  echo "#\!/bin/sh \nruby $PWD/term-clock.rb" > clk
+  chmod +x clk
+  cp clk /usr/bin
+  ```
+  #### Now you can execute it in any place
+  </details>  
+  
+  <details>
+  <summary>polybar-themes</summary> <br>
+
+  ```bash
+  git clone --depth=1 https://github.com/adi1090x/polybar-themes.git
+  cd polybar-themes
+  chmod +x setup.sh
+  ./setup.sh
+  ```
+  
+  #### Ok now choose option 1 that's all
+  
+  </details>  
+  
 </details>
 
 
