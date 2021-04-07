@@ -184,7 +184,7 @@
   ./setup.sh
   ```
   
-  #### Ok now choose option 1 that's all
+  ##### Ok now choose option 1 that's all
   
   </details>  
   
