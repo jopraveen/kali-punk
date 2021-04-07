@@ -16,9 +16,9 @@
 cd kali-punk
 sudo bash install.sh
 ```
-#### If you get any errors in this auto installation script then please go through the manual way (See Down, I explained how to install every package clearly) 
+<h4>If you get any errors in this auto installation script then please go through the manual way (See Down, I explained how to install every package clearly)</h4> 
 
-## Full set up
+# Full set up
 ### I'll upload a video in two days in my youtube channel (How to do tutorial video)
 ### Subscribe My channel to get instant notification of this video: https://bit.ly/3rLKyZi 
 
