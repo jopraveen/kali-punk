@@ -29,6 +29,7 @@ sudo apt install compton
 echo -e "\n\e[40mInstalling feh...\n"
 sudo apt install feh
 sudo apt install imagemagick
+sudo apt install ffmpeg
 
 # neofetch
 echo -e "\n\e[40mInstalling neofetch...\n"
