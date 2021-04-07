@@ -1,0 +1,5 @@
+cp $HOME/kali-punk/i3/config $HOME/.config/i3/config
+
+cp -r $HOME/kali-punk/polybar ~/.config
+
+cp -r $HOME/kali-punk/.vimrc $HOME/
