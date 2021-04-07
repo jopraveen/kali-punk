@@ -84,6 +84,15 @@ sudo bash install.sh
   ```
   
   </details>
+  
+  <details>
+  <summary>imagemagick</summary> <br>
+
+  ```bash
+  sudo apt install imagemagick
+  ```
+  
+  </details>
 
   <details>
   <summary>compton</summary> <br>
