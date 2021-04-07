@@ -66,10 +66,6 @@ cd wallset
 sudo bash install.sh
 sudo ./install.sh --force #force installing
 cd
-# termcolor 
-echo -e "\n\e[40mInstalling termcolor...\n"
-pip3 install termcolor
-
 
 # polybar-themes
 echo -e "\n\e[40mInstalling polybar-themes...\n"
