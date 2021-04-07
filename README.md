@@ -170,11 +170,8 @@
   ```bash
   git clone https://github.com/Souravgoswami/term-clock
   cd term-clock
-  echo "#\!/bin/sh \nruby $PWD/term-clock.rb" > clk
-  chmod +x clk
-  cp clk /usr/bin
   ```
-  #### Now you can execute it in any place
+  #### You can run this clock by `ruby term-clock.rb`
   </details>  
   
   <details>
