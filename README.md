@@ -189,7 +189,9 @@
   
   <details>
   <summary>Mate-terminal</summary> <br>
+  
   #### Go to profile preferences and change these things (in mate-terminal) 🙂
+  
   + General    
       + Font: Monospace Regular 
       + Font Size: 9
