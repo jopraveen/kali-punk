@@ -240,6 +240,10 @@ sudo bash install.sh
   + Background
 
       + Tansparent Background : set 68% transparency
+    
+  + Scrolling
+      + Scrollbar is: disabled
+
   </details>
   
 </details>
