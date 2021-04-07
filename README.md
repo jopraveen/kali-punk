@@ -129,7 +129,7 @@
   <summary>i3-gaps</summary> <br>
 
   ```bash
-  sudo apt i3-gaps 
+  sudo apt  install i3-gaps 
   ```
   </details>
 
@@ -137,7 +137,7 @@
   <summary>ranger</summary> <br>
 
   ```bash
-  sudo apt ranger 
+  sudo apt install ranger 
   ```
   </details>
 
@@ -145,7 +145,7 @@
   <summary>rofi</summary> <br>
 
   ```bash
-  sudo apt rofi 
+  sudo apt install rofi 
   ```
   </details>
   
