@@ -10,17 +10,20 @@
 
 <h2 align="center">i3 rice Inspired by Cyberpunk 2077 (still under construction)</h2> <br>
 
-## Installing dependecies
+# 😍 Full set up
+### I'll upload a video in two days in my youtube channel (How to do tutorial video)
+### Subscribe My channel to get instant notification of this video: https://bit.ly/3rLKyZi 
+
+<br>
+
+
+# 🙆‍♂ Installing dependecies
 
 ```bash
 cd kali-punk
 sudo bash install.sh
 ```
 <h4>If you get any errors in this auto installation script then please go through the manual way (See Down, I explained how to install every package clearly)</h4> 
-
-# Full set up
-### I'll upload a video in two days in my youtube channel (How to do tutorial video)
-### Subscribe My channel to get instant notification of this video: https://bit.ly/3rLKyZi 
 
 <details>
 <summary>👈 Dependencies</summary> <br>
