@@ -1,12 +1,13 @@
 ![main-logo](https://github.com/jopraveen/kali-punk/blob/main/assets/main-logo.png) <br><br>
 
-<p align="center"> 
-<img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2021?style=flat-square">
-<img alt="GitHub" src="https://img.shields.io/github/license/jopraveen/kali-punk?style=flat-square">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jopraveen/kali-punk?style=flat-square">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jopraveen/kali-punk?style=flat-square">
-<!--<img alt="GitHub forks" src="https://img.shields.io/github/forks/jopraveen/kali-punk?style=flat-square">-->
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/jopraveen/kali-punk?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/jopraveen/kali-punk?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/jopraveen/kali-punk?color=violet&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/jopraveen/kali-punk?color=teal&style=for-the-badge">
 </p>
+
 <h2 align="center">i3 rice Inspired by Cyberpunk 2077 (still under construction)</h2> <br>
 
 
