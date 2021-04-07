@@ -155,7 +155,7 @@
   ```bash
   git clone https://github.com/terroo/wallset
   cd wallset
-  sudo sh install.sh
+  sudo bash install.sh
   ```
   ### The installer says that a package is not installed, but are you sure it is?
   ```bash
