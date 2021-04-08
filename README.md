@@ -247,3 +247,5 @@ sudo bash install.sh
   </details>
   
 </details>
+
+#### Guys this is my first ricing, So if you have any errors please put it in the issues page...  I'll try to solve it in few hours
