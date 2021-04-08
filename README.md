@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/forks/jopraveen/kali-punk?color=teal&style=for-the-badge">
 </p>
 
-<h2 align="center">i3 rice Inspired by Cyberpunk 2077 (still under construction)</h2> <br>
+<h2 align="center">i3 rice Inspired by Cyberpunk 2077</h2> <br>
 
 # 😍 Full set up
 ### I'll upload a video in my youtube channel in few hours (Full Tutorial)
