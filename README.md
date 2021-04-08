@@ -247,12 +247,3 @@ sudo bash install.sh
   </details>
   
 </details>
-
-<details>
-<summary>👈 Changing path in some files</summary> <br>
-
-#### Modfify these files (follow my steps)
- 
- Sorry guys today it's 01:26 here.. So, let me go to sleep then I'll upload other stuffs tmrw
-    
-</details>
