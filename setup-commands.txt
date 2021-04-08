@@ -1,9 +1,19 @@
+COMMANDS:
+
 cp $HOME/kali-punk/i3/config $HOME/.config/i3/config
 
 cp -r $HOME/kali-punk/polybar ~/.config
 
 cp -r $HOME/kali-punk/.vimrc $HOME/
 
-extension link : https://chrome.google.com/webstore/detail/infinite-dashboard-new-ta/meffljleomgifbbcffejnmhjagncfpbd
+
+EXTENSIONS LINK:
+
+https://chrome.google.com/webstore/detail/infinite-dashboard-new-ta/meffljleomgifbbcffejnmhjagncfpbd
 
 https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe/related?hl=en
+
+
+SET WALLPAPER COMMAND (need to add in your .bashrc / .zshrc file):
+
+feh --bg-fill $HOME/kali-punk/walls/main-wall.png
