@@ -11,7 +11,7 @@
 <h2 align="center">i3 rice Inspired by Cyberpunk 2077</h2> <br>
 
 # 😍 Full set up
-### Preview link: 
+### Preview link: https://youtu.be/05Tl3i0RJ9U
 ### Full tutorial (how to setup this): https://youtu.be/K3udjkay6-A
 
 <br>
