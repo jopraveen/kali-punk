@@ -10,7 +10,7 @@ with open('ip.txt','w') as f:
 # finding tun0 ip
 txt_file = open('ip.txt','r')
 IP = txt_file.read()
-pattern = re.compile("[10]+\.+\d\d+\.+\d\d+\.+\w{2,3}")
+pattern = re.compile("[10]+\.\w+\.\w{2,3}\.\w{2,3}")
 search_tun0 = pattern.findall(IP)
 if len(search_tun0) > 0:
 	tun0_IP = search_tun0[0]
